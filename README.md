@@ -7,6 +7,7 @@ Created a scoreboard that keeps score for player 1 and player 2.
 ![](./Images/player-screen%20.png)
 
 ## Links
+https://amazing-dieffenbachia-3d209c.netlify.app/
 
 ### Built with
 
